@@ -70,11 +70,15 @@ The aim of this project is to create a single page progressive web application c
 
 <img width="960" alt="JATE Page" src="https://github.com/e-aji/text-editor-PWA/assets/156595423/591aab07-08da-4c0e-88eb-ad40b049a31e">
 
+
 <img width="960" alt="Screenshot 2024-06-10 at 18 13 42" src="https://github.com/e-aji/text-editor-PWA/assets/156595423/2d4ec093-217d-4f40-85f8-c8a3b52f2432">
+
 
 <img width="960" alt="Screenshot 2024-06-10 at 18 14 04" src="https://github.com/e-aji/text-editor-PWA/assets/156595423/202107fe-311b-4096-b01d-1d8ef5e979e4">
 
+
 <img width="960" alt="Screenshot 2024-06-10 at 18 14 35" src="https://github.com/e-aji/text-editor-PWA/assets/156595423/190fc92a-e3cd-40aa-a5b5-249ea590d9d6">
+
 
 ## License 
 
