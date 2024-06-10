@@ -2,13 +2,12 @@
 
 ## Description 
 
-
-
-
+The aim of this project is to create a single page progressive web application called JATE (Just Another Text Editor) that functions as a text editor and allows a user to creates notes that can be stored and retrieved for when the user revisits the page. The application is designed to run when can be used when a user is either online or offline and can be installed on the users' desktop and used in that capacity.
 
 ## Contents 
 
 * [Criteria](#criteria)
+* [Installation](#installation)
 * [Usage](#usage)
 * [Built With](#built-with)
 * [Images](#images)
@@ -45,19 +44,27 @@
     THEN I should have proper build scripts for a webpack application
 
 
+## Installation 
+
+* Run 'npm i' in the terminal to install the required packages.
+* Then run 'npm run start:dev', using concurrently to to run build and start the server.  
+* Once this is done, you should then be able to access the application.
+
 ## Usage 
 
-* 
-* 
-* 
-* 
+* Access the JATE application using this link 
+* Once on the application, you are then able to enter any text of your choice.
+* The text will then be saved in your browser so that when you revisit the application, it will still be on the page and you are able to either remove it or continue to add to it.
+* The application will continue to work even when you are offline.
+* Clicking on the install button present on the top left-hand corner will you install the application onto your desktop. It can then be used in the same way as it is used in the browser.
 
 ## Built With 
 
-* 
-* 
-* 
-* 
+* JavaScript
+* Node.js
+* NPM
+* Express.js
+* Webpack
 
 ## Images 
 
