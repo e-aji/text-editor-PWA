@@ -23,6 +23,7 @@ butInstall.addEventListener('click', async () => {
 
 // Handler for the `appinstalled` event
 window.addEventListener('appinstalled', (event) => {
-    
+
     window.deferredPrompt = null;
 });
+

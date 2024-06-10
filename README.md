@@ -47,7 +47,7 @@ The aim of this project is to create a single page progressive web application c
 ## Installation 
 
 * Run 'npm i' in the terminal to install the required packages.
-* Then run 'npm run start:dev', using concurrently to to run build and start the server.  
+* Then run 'npm run start', using concurrently to to run build and start the server.  
 * Once this is done, you should then be able to access the application.
 
 ## Usage 
